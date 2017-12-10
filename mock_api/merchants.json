@@ -1,0 +1,439 @@
+[{
+    "id": 0,
+    "firstname": "F_Test1",
+    "lastname": "L_Test1",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test1@test.com",
+    "phone": "+441234567891",
+    "hasPremium": true,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        },
+        {
+            "id": 3,
+            "carTitle": "FORD FOCUS",
+            "amount": 541412,
+            "created": "2017-05-16"
+        },
+        {
+            "id": 4,
+            "carTitle": "MERCEDES",
+            "amount": 692830,
+            "created": "2010-01-19"
+        }
+    ]
+}, {
+    "id": 1,
+    "firstname": "F_Test2",
+    "lastname": "L_Test2",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test2@test.com",
+    "phone": "+441234567891",
+    "hasPremium": true,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        }
+    ]
+}, {
+    "id": 2,
+    "firstname": "F_Test3",
+    "lastname": "L_Test3",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test3@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+            "id": 0,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        },
+        {
+            "id": 1,
+            "carTitle": "FORD FOCUS",
+            "amount": 541412,
+            "created": "2017-05-16"
+        },
+        {
+            "id": 2,
+            "carTitle": "MERCEDES",
+            "amount": 692830,
+            "created": "2010-01-19"
+        }
+    ]
+}, {
+    "id": 3,
+    "firstname": "F_Ttest4",
+    "lastname": "L_Ttest4",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_ttest4@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "MERCEDES",
+            "amount": 692830,
+            "created": "2010-01-19"
+        }
+    ]
+}, {
+    "id": 4,
+    "firstname": "F_Test5",
+    "lastname": "L_Test5",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test5@test.com",
+    "phone": "+441234567891",
+    "hasPremium": true,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "MERCEDES",
+            "amount": 692830,
+            "created": "2010-01-19"
+        }
+    ]
+}, {
+    "id": 5,
+    "firstname": "F_Test6",
+    "lastname": "L_Test6",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test6@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+        "id": 0,
+        "carTitle": "SKODA",
+        "amount": 831079,
+        "created": "2017-06-22"
+    }]
+}, {
+    "id": 6,
+    "firstname": "F_Test7",
+    "lastname": "L_Test7",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test7@test.com",
+    "phone": "+441234567891",
+    "hasPremium": true,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        }
+    ]
+}, {
+    "id": 7,
+    "firstname": "F_Test8",
+    "lastname": "L_Test8",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test8@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        }
+    ]
+}, {
+    "id": 8,
+    "firstname": "F_Test9",
+    "lastname": "L_Test9",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test9@test.com",
+    "phone": "+441234567891",
+    "hasPremium": true,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        }
+    ]
+}, {
+    "id": 9,
+    "firstname": "F_Test10",
+    "lastname": "L_Test10",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test10@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+        "id": 0,
+        "carTitle": "SKODA",
+        "amount": 831079,
+        "created": "2017-06-22"
+    }]
+}, {
+    "id": 10,
+    "firstname": "F_Test11",
+    "lastname": "L_Test11",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test11@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+        "id": 0,
+        "carTitle": "SKODA",
+        "amount": 831079,
+        "created": "2017-06-22"
+    }]
+}, {
+    "id": 11,
+    "firstname": "F_Test12",
+    "lastname": "L_Test12",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test12@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        },
+        {
+            "id": 3,
+            "carTitle": "FORD FOCUS",
+            "amount": 541412,
+            "created": "2017-05-16"
+        },
+        {
+            "id": 4,
+            "carTitle": "MERCEDES",
+            "amount": 692830,
+            "created": "2010-01-19"
+        }
+    ]
+}, {
+    "id": 12,
+    "firstname": "F_Test13",
+    "lastname": "L_Test13",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test13@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        },
+        {
+            "id": 3,
+            "carTitle": "FORD FOCUS",
+            "amount": 541412,
+            "created": "2017-05-16"
+        },
+        {
+            "id": 4,
+            "carTitle": "MERCEDES",
+            "amount": 692830,
+            "created": "2010-01-19"
+        }
+    ]
+}, {
+    "id": 13,
+    "firstname": "F_Test14",
+    "lastname": "L_Test14",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test14@test.com",
+    "phone": "+441234567891",
+    "hasPremium": true,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        },
+        {
+            "id": 3,
+            "carTitle": "FORD FOCUS",
+            "amount": 541412,
+            "created": "2017-05-16"
+        }
+    ]
+}, {
+    "id": 14,
+    "firstname": "F_Test15",
+    "lastname": "L_Test15",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test15@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        }
+    ]
+}, {
+    "id": 15,
+    "firstname": "F_Test16",
+    "lastname": "L_Test16",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test16@test.com",
+    "phone": "+441234567891",
+    "hasPremium": true,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        },
+        {
+            "id": 2,
+            "carTitle": "VW GOLF",
+            "amount": 491445,
+            "created": "2017-08-04"
+        }
+    ]
+}, {
+    "id": 16,
+    "firstname": "F_Test17",
+    "lastname": "L_Test17",
+    "avatarUrl": "http://placehold.it/64x64",
+    "email": "email_test17@test.com",
+    "phone": "+441234567891",
+    "hasPremium": false,
+    "bids": [{
+            "id": 0,
+            "carTitle": "SKODA",
+            "amount": 831079,
+            "created": "2017-06-22"
+        },
+        {
+            "id": 1,
+            "carTitle": "BMW",
+            "amount": 882074,
+            "created": "2017-01-02"
+        }
+    ]
+}]

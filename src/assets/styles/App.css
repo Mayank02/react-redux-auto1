@@ -1,0 +1,96 @@
+.App {
+    padding-bottom: 3em;
+}
+
+.App-logo {
+    height: 70px;
+    background: white;
+    padding: 10px 0;
+    border-radius: 3px;
+    float: left;
+}
+
+.App-header {
+    background-color: #4a90e2;
+    padding: 20px;
+    color: white;
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+.main-nav {
+    text-align: right;
+    margin-top: 25px;
+}
+
+.main-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 1em 0;
+}
+
+.main-nav li {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 1em;
+}
+
+.main-nav a {
+    color: #e0e0e0;
+    text-transform: uppercase;
+}
+
+.main-nav a:hover {
+    color: #F6852A;
+    text-decoration: none;
+}
+
+.main-nav a:focus {
+    text-decoration: none;
+}
+
+.main-nav a.selected {
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+td.premium {
+    text-align: center;
+}
+
+td.premium .glyphicon-ok {
+    color: green;
+}
+
+td.premium .glyphicon-remove {
+    color: red;
+}
+
+img.avatar {
+    height: 32px;
+    width: auto;
+}
+
+.error-text {
+    color: red;
+}
+
+.merchant-submit {
+    margin-bottom: 1.5em;
+}
+
+.pager li {
+    margin: 0 0.5em;
+}
+
+.pager li>span {
+    border-radius: 5px;
+}
+
+.pager li>a {
+    border-radius: 5px;
+}
+
+.bids .btn {
+    margin-bottom: 1.5em;
+}
